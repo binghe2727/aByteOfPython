@@ -1,0 +1,3 @@
+#useReference
+def powerSum(power,*args):
+	
